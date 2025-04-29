@@ -15,7 +15,7 @@ This project contains multiple Excel-based reports created to analyze and visual
 
    Identifies underperforming products based on revenue or volume.
 
-2. [Customer Performance Report]()  
+2. [Customer Performance Report](https://github.com/kishorgehlot10/Excel-Sales-Analytics/blob/main/Customer%20Performance%20Report.pdf)  
 
    Evaluates customer contributions and performance trends across time.
 
