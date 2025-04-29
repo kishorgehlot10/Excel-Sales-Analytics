@@ -31,7 +31,7 @@ This project contains multiple Excel-based reports created to analyze and visual
       
    Compares actual market sales vs forecasted targets, highlighting gaps or overperformance.
 
-6. [New Products]()
+6. [New Products](https://github.com/kishorgehlot10/Excel-Sales-Analytics/blob/main/New%20Products.pdf)
      
    Tracks the performance of newly launched products in recent fiscal periods.
 
