@@ -11,41 +11,53 @@ This project contains multiple Excel-based reports created to analyze and visual
 
 ## 📌 Reports Included
 
-1. **Bottom 5 Products** 
+1. [Bottom 5 Products](https://github.com/kishorgehlot10/Excel-Sales-Analytics/blob/main/Bottom%205%20Products.pdf)
+
    Identifies underperforming products based on revenue or volume.
 
-2. **Customer Performance Report**  
+2. [Customer Performance Report]()  
+
    Evaluates customer contributions and performance trends across time.
 
-3. **Division Level Report**  
+3. [Division Level Report]()  
+
    Breaks down sales by divisions/regions for internal performance tracking.
 
-4. **GM% by Quarters**  
+4. [GM% by Quarters]() 
+
    📄 *Includes GM % By Quarters (Sub_Zone)* – Comparative quarterly gross margin analysis by sub-zones (ANZ, India, NA, etc.) across fiscal years 2019, 2020, and 2021.
 
-5. **Market Performance vs Target**  
+5. [Market Performance vs Target]()
+      
    Compares actual market sales vs forecasted targets, highlighting gaps or overperformance.
 
-6. **New Products**  
+6. [New Products]()
+     
    Tracks the performance of newly launched products in recent fiscal periods.
 
-7. **P&L by Fiscal Months**  
+7. [P&L by Fiscal Months]()
+  
    Month-wise Profit and Loss breakdown across fiscal periods.
 
-8. **P&L by Fiscal Year**  
+8. [P&L by Fiscal Year]()
+     
    Yearly P&L report summarizing key financial metrics.
 
-9. **P&L by Markets**  
+9. [P&L by Markets]()  
+
    Market-wise profit and loss analysis for strategic comparisons.
 
-10. **Top 5 Countries in 2021**  
-   Highlights the top-performing countries based on key sales metrics in FY 2021.
+10. [Top 5 Countries in 2021]()
 
-11. **Top 5 Products**  
-   Focus on best-selling or highest-margin products.
+Highlights the top-performing countries based on key sales metrics in FY 2021.
 
-12. **Top 10 Products**  
-   An extended view of product performance with top 10 insights.
+11. [Top 5 Products]()  
+
+Focus on best-selling or highest-margin products.
+
+12. [Top 10 Products]()  
+
+An extended view of product performance with top 10 insights.
 
 ## ✅ Key Insights (From GM% By Quarters Report)
 
@@ -68,4 +80,4 @@ To provide executives and analysts with actionable insights using Excel as a das
 
 ---
 
-🛠 Created with dedication for AtliQ Hardwares by [Your Name]
+🛠 Created with dedication for AtliQ Hardwares by [Kishorkumar M Gehlot]
