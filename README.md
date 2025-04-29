@@ -39,7 +39,7 @@ This project contains multiple Excel-based reports created to analyze and visual
   
    Month-wise Profit and Loss breakdown across fiscal periods.
 
-8. [P&L by Fiscal Year]()
+8. [P&L by Fiscal Year](https://github.com/kishorgehlot10/Excel-Sales-Analytics/blob/main/P%20%26%20L%20By%20Fiscal%20Year.pdf)
      
    Yearly P&L report summarizing key financial metrics.
 
