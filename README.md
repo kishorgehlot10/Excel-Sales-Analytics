@@ -19,7 +19,7 @@ This project contains multiple Excel-based reports created to analyze and visual
 
    Evaluates customer contributions and performance trends across time.
 
-3. [Division Level Report]()  
+3. [Division Level Report](https://github.com/kishorgehlot10/Excel-Sales-Analytics/blob/main/Divison%20Level%20Report.pdf)  
 
    Breaks down sales by divisions/regions for internal performance tracking.
 
