@@ -27,7 +27,7 @@ This project contains multiple Excel-based reports created to analyze and visual
 
    📄 *Includes GM % By Quarters (Sub_Zone)* – Comparative quarterly gross margin analysis by sub-zones (ANZ, India, NA, etc.) across fiscal years 2019, 2020, and 2021.
 
-5. [Market Performance vs Target]()
+5. [Market Performance vs Target](https://github.com/kishorgehlot10/Excel-Sales-Analytics/blob/main/Market%20Performance%20vs%20Targert.pdf)
       
    Compares actual market sales vs forecasted targets, highlighting gaps or overperformance.
 
