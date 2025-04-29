@@ -35,7 +35,7 @@ This project contains multiple Excel-based reports created to analyze and visual
      
    Tracks the performance of newly launched products in recent fiscal periods.
 
-7. [P&L by Fiscal Months]()
+7. [P&L by Fiscal Months](https://github.com/kishorgehlot10/Excel-Sales-Analytics/blob/main/P%20%26%20L%20By%20Fiscal%20Months.pdf)
   
    Month-wise Profit and Loss breakdown across fiscal periods.
 
