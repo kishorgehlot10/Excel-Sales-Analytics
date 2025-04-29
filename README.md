@@ -23,7 +23,7 @@ This project contains multiple Excel-based reports created to analyze and visual
 
    Breaks down sales by divisions/regions for internal performance tracking.
 
-4. [GM% by Quarters]() 
+4. [GM% by Quarters](https://github.com/kishorgehlot10/Excel-Sales-Analytics/blob/main/GM%20%25%20By%20Quaters.pdf) 
 
    📄 *Includes GM % By Quarters (Sub_Zone)* – Comparative quarterly gross margin analysis by sub-zones (ANZ, India, NA, etc.) across fiscal years 2019, 2020, and 2021.
 
