@@ -49,15 +49,15 @@ This project contains multiple Excel-based reports created to analyze and visual
 
 10. [Top 5 Countries in 2021](https://github.com/kishorgehlot10/Excel-Sales-Analytics/blob/main/Top%205%20COUNTRY%202021.pdf)
 
-Highlights the top-performing countries based on key sales metrics in FY 2021.
+   Highlights the top-performing countries based on key sales metrics in FY 2021.
 
 11. [Top 5 Products](https://github.com/kishorgehlot10/Excel-Sales-Analytics/blob/main/Top%205%20Products.pdf)  
 
-Focus on best-selling or highest-margin products.
+    Focus on best-selling or highest-margin products.
 
 12. [Top 10 Products](https://github.com/kishorgehlot10/Excel-Sales-Analytics/blob/main/Top%2010%20Products.pdf)  
 
-An extended view of product performance with top 10 insights.
+    An extended view of product performance with top 10 insights.
 
 ## ✅ Key Insights (From GM% By Quarters Report)
 
