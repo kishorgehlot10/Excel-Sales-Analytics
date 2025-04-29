@@ -43,7 +43,7 @@ This project contains multiple Excel-based reports created to analyze and visual
      
    Yearly P&L report summarizing key financial metrics.
 
-9. [P&L by Markets]()  
+9. [P&L by Markets](https://github.com/kishorgehlot10/Excel-Sales-Analytics/blob/main/P%20%26%20L%20By%20Markets.pdf)  
 
    Market-wise profit and loss analysis for strategic comparisons.
 
